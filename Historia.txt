@@ -90,7 +90,7 @@ li:hover ul{
 
 <CENTER>
 <IMG SRC="H1.jpeg" width="340" height="260">
-<TD></TD><TD></TD><TD><IMG SRC="dos.JPG" width="340" height="270"></TD><TD></TD>
+<TD></TD><TD></TD><TD><IMG SRC="dos.JPEG" width="340" height="270"></TD><TD></TD>
 
 
 
